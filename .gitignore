@@ -1,0 +1,16 @@
+# Scilab/editor and operating-system artifacts
+*.bak
+*.tmp
+*.autosave
+*~
+.DS_Store
+Thumbs.db
+
+# Generated plots and test logs
+*.png
+*.pdf
+*.svg
+*.log
+
+# GitHub CLI local state
+.gh/
